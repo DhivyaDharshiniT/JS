@@ -17,3 +17,12 @@ console.log(10||20)
 console.log(0||20)
 console.log(100||20&&0)
 console.log(100||20&&0)
+//relational operator
+aR=10
+bR=20
+console.log("Relational operator output",aR>bR)
+console.log("Relational operator output",aR>=bR)
+console.log("Relational operator output",aR<bR)
+console.log("Relational operator output",aR<=bR)
+console.log("Relational operator output",aR==bR)
+console.log("Relational operator output",aR!=bR)

@@ -19,3 +19,10 @@ function isAuthenticated() {
     .catch(function (message) {
       console.log(message);
     });
+    
+  /* //example2
+
+   function isValid(){
+    var a="Valid"
+   
+   }*/
